@@ -1,0 +1,8 @@
+# Requirements for Integral Solver Application
+
+# Add your Python dependencies below:
+
+numpy
+scipy
+sympy
+matplotlib
